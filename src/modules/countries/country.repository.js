@@ -10,7 +10,7 @@ const countryExcludedFields = { _id: 0, __v: 0, lang: 0, localizations: 0 };
 const placeExcludedFields = { _id: 0, countryId: 0, lang: 0, localizations: 0 };
 
 const getAllByLang = async (lang) => {
-  return await Country.aggregate()
+  const country = await Country.aggregate()
     .match({ localizations: { $elemMatch: { lang } } })
     .unwind('localizations')
     .match({ 'localizations.lang': lang })
@@ -18,6 +18,8 @@ const getAllByLang = async (lang) => {
       $mergeObjects: [{ id: '$_id' }, '$localizations', '$$ROOT'],
     })
     .project(countryExcludedFields);
+  
+  return country;
 };
 
 const getOneByLang = async (id, lang) => {
