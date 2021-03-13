@@ -40,6 +40,7 @@ const countrySchema = new Schema({
       required: true,
     },
   },
+  timezone: Number,
   localizations: [localeSchema],
 });
 
