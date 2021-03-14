@@ -19,6 +19,7 @@ const localeSchema = new Schema({
 const countrySchema = new Schema({
   imageUrl: String,
   videoUrl: String,
+  capitalEn: String,
   currency: {
     type: String,
     required: true,
