@@ -68,5 +68,7 @@ module.exports = {
   NotFoundError,
   InternalServerError,
   MongoDuplicateError,
-  UserHasRegistred
+  UserHasRegistred,
+  IncorectPassword,
+  UserNotFound
 };
