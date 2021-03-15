@@ -3,7 +3,6 @@ const { MONGO_CONNECTION_STRING } = require('../config');
 const logger = require('../logging/logger');
 
 const connectToDB = () => {
-  console.log('here');
   mongoose
     .connect(MONGO_CONNECTION_STRING, {
       useNewUrlParser: true,

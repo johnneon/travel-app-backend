@@ -9,6 +9,33 @@ class BadRequestError extends Error {
   }
 }
 
+class IncorectPassword extends Error {
+  constructor() {
+    super();
+    this.status = StatusCodes.BAD_REQUEST;
+    this.statusText = ReasonPhrases.BAD_REQUEST;
+    this.reason = `Incorect password`;
+  }
+}
+
+class UserNotFound extends Error {
+  constructor(user) {
+    super();
+    this.status = StatusCodes.NOT_FOUND;
+    this.statusText = ReasonPhrases.NOT_FOUND;
+    this.reason = `${user} not found`;
+  }
+}
+
+class UserHasRegistred extends Error {
+  constructor(user) {
+    super();
+    this.status = StatusCodes.BAD_REQUEST;
+    this.statusText = ReasonPhrases.NOT_ACCEPTABLE;
+    this.reason = `${user} has already been created`;
+  }
+}
+
 class NotFoundError extends Error {
   constructor(entity) {
     super();
@@ -41,4 +68,5 @@ module.exports = {
   NotFoundError,
   InternalServerError,
   MongoDuplicateError,
+  UserHasRegistred
 };
