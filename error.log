@@ -169,3 +169,23 @@
   message: 'User.aggregate(...).match(...).replaceRoot(...).project(...).flat is not a function',
   timestamp: '2021-03-15T14:47:06.214Z'
 }
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:41:21.252Z'
+}
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:42:00.817Z'
+}
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:43:16.489Z'
+}
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:43:33.253Z'
+}

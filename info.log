@@ -818,3 +818,93 @@
   level: 'info',
   timestamp: '2021-03-15T14:53:11.096Z'
 }
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:41:05.503Z'
+}
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:41:21.253Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 27.659 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-15T17:41:21.267Z'
+}
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:42:00.827Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 89.319 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-15T17:42:00.888Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:42:01.146Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:42:43.941Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:43:14.685Z'
+}
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:43:16.489Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 15.000 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-15T17:43:16.497Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:43:32.819Z'
+}
+{
+  level: 'error',
+  message: "Cannot destructure property 'email' of 'req.body' as it is undefined.",
+  timestamp: '2021-03-15T17:43:33.258Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 45.235 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-15T17:43:33.289Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:43:42.748Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:43:59.525Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 753.714 ms - 148\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-15T17:44:02.223Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:44:21.433Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-15T17:44:42.837Z'
+}

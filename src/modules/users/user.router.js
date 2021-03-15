@@ -23,7 +23,7 @@ const router = express.Router();
 // });
 
 router.post('/register',checkMiddleware.checkRegister, wrap(async (req, res) => {
-  const data = await userService.register(req.body);
+  const data = await userService.register(req);
   return res.json(data);
 }));
 
