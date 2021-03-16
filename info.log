@@ -908,3 +908,63 @@
   level: 'info',
   timestamp: '2021-03-15T17:44:42.837Z'
 }
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T14:06:47.395Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T14:07:45.760Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[33m400\x1B[0m 13.990 ms - 96\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T14:07:50.361Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[33m400\x1B[0m 558.172 ms - 121\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T14:07:59.034Z'
+}
+{
+  level: 'error',
+  message: 'User.create(...).aggregate is not a function',
+  timestamp: '2021-03-16T14:08:08.257Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 455.694 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T14:08:08.260Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T14:09:45.228Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[33m400\x1B[0m 521.420 ms - 121\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T14:09:48.920Z'
+}
+{
+  level: 'error',
+  message: 'User.create(...).aggregate is not a function',
+  timestamp: '2021-03-16T14:09:55.452Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 440.258 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T14:09:55.457Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T14:11:38.012Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 658.505 ms - 259\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T14:11:41.464Z'
+}

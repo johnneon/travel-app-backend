@@ -29,9 +29,21 @@ const createUser = async (req) => {
   }
 
   const user = await User.create({ email, password: hashedPassword, fullName });
-  user.password = undefined;
+
+  const createdUser = await User.aggregate()
+  .match({ email })
+  .replaceRoot({
+    $mergeObjects: [{ id: '$_id' }, '$localizations', '$$ROOT'],
+  })
+  .project({ _id: 0, __v: 0 })
+  .then((data) => data[0]);
+
+  const secret = process.env.JWT_SECRET || 'protectedone';
+  const token = jwt.sign({ userId: createdUser.id }, secret, { expiresIn: '7d' });
+  createdUser.token = token;
+  createdUser.password = undefined;
   
-  return user;
+  return createdUser;
   // name = dz17h1f1j
   // api key = 339651217878835
   // api secret = Fg5ajAzKxvvuea0vDawbKVOWmQc
