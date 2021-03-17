@@ -24,7 +24,6 @@ const createUser = async (req) => {
   const condidate = await User.findOne({ email });
 
   if (condidate) {
-    console.log(condidate);
     throw new UserHasRegistred(condidate.email);
   }
 
@@ -50,7 +49,6 @@ const loginUser = async (req) => {
   const errors = validationResult(req);
   
   if (!(errors.isEmpty())) {
-    console.log(req.body);
     throw new BadRequestError('Incorect data');
   }
 
@@ -68,7 +66,6 @@ const loginUser = async (req) => {
     throw new UserNotFound(email);
   }
 
-  console.log(user);
   const isMatch = await bcrypt.compare(password, user.password);
   if (!isMatch) {
     throw new IncorectPassword();

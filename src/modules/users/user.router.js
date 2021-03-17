@@ -13,12 +13,10 @@ const router = express.Router();
 const loader = multer({dest: path.join(__dirname, 'tmp')});
 
 router.post('/register', loader.single('avatar'), wrap(async (req, res) => {
-  console.log(req.body, req.file);
   try {
     const result = await cloudinary.uploader.upload(req.file.path, {upload_preset: 'avatarPreset'});
-
     req.body.avatar = result.secure_url;
-    console.log(req.body);
+    
     const data = await userService.register(req);
     return res.json(data);
   } catch (error) {
