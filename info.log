@@ -968,3 +968,353 @@
   level: 'info',
   timestamp: '2021-03-16T14:11:41.464Z'
 }
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T16:04:41.731Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T16:04:51.201Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T16:05:15.530Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 508.658 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:18:51.669Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 538.601 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:20:24.148Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 535.284 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:25:08.754Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 510.393 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:29:22.999Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 6.742 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:35:12.337Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.303 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:35:34.643Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.319 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:36:22.860Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.079 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:38:24.495Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.088 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:39:05.804Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 7.073 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:59:01.499Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.335 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T16:59:29.192Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 3.864 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:10:41.677Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 9.627 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:16:06.202Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.191 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:19:18.403Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.100 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:26:39.074Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 2.729 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:27:16.817Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-16T17:29:00.485Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 11.095 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:29:01.632Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 2.819 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:29:55.969Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 1.319 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:31:07.203Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 4.704 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-16T17:37:02.872Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:14:29.160Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:17:37.645Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:17:47.677Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[33m400\x1B[0m 859.408 ms - 122\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T07:18:02.600Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:18:32.859Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[33m400\x1B[0m 661.158 ms - 122\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T07:18:35.384Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:19:53.426Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:20:00.330Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 34.279 ms - 19\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T07:20:23.573Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:22:32.322Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 2581.095 ms - 662\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T07:22:57.391Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T07:44:40.219Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 2782.793 ms - 68\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T07:45:04.683Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 1651.306 ms - 123\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:01:45.420Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 1279.669 ms - 123\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:03:34.584Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 1267.018 ms - 123\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:04:55.950Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 1373.335 ms - 123\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:06:34.563Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:08:42.515Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 1752.244 ms - 123\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:09:00.427Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 1346.268 ms - 659\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:09:31.762Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:10:00.945Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 1322.431 ms - 123\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:10:13.250Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 4.667 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:11:59.724Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-17T08:11:59.728Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 4610.844 ms - 681\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:12:24.163Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 3753.430 ms - 681\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:13:40.150Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:16:40.741Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 2920.980 ms - 92\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:17:03.399Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:17:52.373Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 12.623 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:18:29.142Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 2.747 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:18:50.409Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:19:15.882Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[33m400\x1B[0m 123.671 ms - 93\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:19:17.330Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:20:31.393Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 1084.710 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:20:32.053Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:21:12.397Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 487.163 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:21:27.014Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 474.488 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:21:40.450Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:22:12.580Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:22:28.827Z'
+}
+{
+  message: '\x1B[0mPOST /auth/login \x1B[32m200\x1B[0m 540.513 ms - 260\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:22:42.142Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:24:29.153Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:24:45.529Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 2798.840 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:26:41.949Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-17T08:32:01.617Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 3612.186 ms - 356\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-17T08:34:05.359Z'
+}
