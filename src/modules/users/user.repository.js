@@ -22,7 +22,7 @@ const createUser = async (req) => {
   const hashedPassword = await bcrypt.hash(password, 12);
 
   const condidate = await User.findOne({ email });
-
+  console.log(condidate);
   if (condidate) {
     throw new UserHasRegistred(condidate.email);
   }

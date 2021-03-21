@@ -13,16 +13,16 @@ const router = express.Router();
 const loader = multer({dest: path.join(__dirname, 'tmp')});
 
 router.post('/register', loader.single('avatar'), wrap(async (req, res) => {
-  try {
+  if (req.file) {
     const result = await cloudinary.uploader.upload(req.file.path, {upload_preset: 'avatarPreset'});
+
     req.body.avatar = result.secure_url;
-    
-    const data = await userService.register(req);
-    return res.json(data);
-  } catch (error) {
-    res.send(error);
+
+    fs.unlink(req.file.path);
   }
-  fs.unlink(req.file.path);
+  const data = await userService.register(req);
+
+  return res.json(data);
 }));
 
 router.post('/login', loader.any(),  wrap(async (req, res) => {

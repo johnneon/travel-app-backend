@@ -1318,3 +1318,303 @@
   level: 'info',
   timestamp: '2021-03-17T08:34:05.359Z'
 }
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:33:19.833Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:33:52.618Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:34:37.753Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:35:07.331Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 16.092 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:35:21.433Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:35:21.435Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 7.253 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:42:19.205Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:42:19.206Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:48:41.691Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 20.747 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:48:49.686Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:48:49.700Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:51:12.394Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 32.545 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:51:31.522Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:51:31.524Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 3.651 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:51:44.599Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:51:44.603Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:51:56.792Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 17.120 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:51:59.261Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:51:59.262Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:53:10.685Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 44.645 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:53:10.861Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:53:10.902Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:53:28.998Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 15.986 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:53:32.393Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:53:32.403Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 20.151 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:01.119Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:55:01.163Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:01.850Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:13.719Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 18.658 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:16.659Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:55:16.660Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:35.640Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 22.289 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:37.506Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:55:37.508Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:47.149Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 17.551 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:55:50.120Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:55:50.179Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:56:13.658Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 14.259 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:56:13.958Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:56:13.961Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:56:35.296Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 41.150 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:56:38.267Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:56:38.314Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:57:01.093Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 16.001 ms - 2\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:57:03.888Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:57:03.903Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:57:59.248Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:58:00.741Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 20.033 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:58:00.751Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:58:27.255Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:58:28.788Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 91.048 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:58:28.870Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:58:59.571Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 5.800 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:58:59.572Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T19:59:15.234Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[33m400\x1B[0m 482.283 ms - 120\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:59:17.718Z'
+}
+{
+  level: 'error',
+  message: "Cannot read property 'path' of undefined",
+  timestamp: '2021-03-21T19:59:26.608Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[31m500\x1B[0m 749.337 ms - 113\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T19:59:26.610Z'
+}
+{
+  message: 'Mongo connection successfully!',
+  level: 'info',
+  timestamp: '2021-03-21T20:02:18.210Z'
+}
+{
+  message: '\x1B[0mPOST /auth/register \x1B[32m200\x1B[0m 714.691 ms - 280\x1B[0m',
+  level: 'info',
+  timestamp: '2021-03-21T20:02:21.359Z'
+}
